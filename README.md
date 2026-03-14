@@ -15,20 +15,22 @@ I architected a data pipeline to merge brand performance datasets with Italian s
 ### 2. Mathematical Optimization (Excel Solver)
 Using **Linear Programming**, I built a model to distribute **1,143 total GRPs** across the 12-month calendar.
 
-[DROP YOUR SOLVER PARAMETERS SCREENSHOT HERE]
+
 
 * **Constraints:** Monthly saturation cap (≤ 300 GRPs) and total budget (≤ €100,000).
 
 ### 3. Efficiency & Seasonality Analysis
 The model identified "Efficiency Windows"—months with a Cost Index below 1.0 (Feb/Oct)—and balanced them against high-visibility months (July/Sept).
 
-[DROP YOUR SEASONALITY TABLE SCREENSHOT HERE]
+
 
 ### 4. Generative AI Interface (Langflow)
 To make findings accessible to stakeholders, I developed an **AI Assistant** (`_Chatbot OralB AI Assistant.json`). 
 * **Capability:** Enables natural language querying of the 2026 media plan.
 
 ![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/b7e09fc3af3fce661a6b00b0cf4c52644c909c8f/Screenshot%202026-03-14%20190623.png)
+
+![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/a97013ca1640b8a85cff151ebe67a8af4eec69bf/Screenshot%202026-03-14%20190544.png)
 ## 📈 Strategic Impact
 * **Total Visibility Score:** 1,143.33 units.
 * **Result:** Achieved an optimized balance between Reach and Efficiency.
