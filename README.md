@@ -28,7 +28,7 @@ The model identified "Efficiency Windows"—months with a Cost Index below 1.0 (
 To make findings accessible to stakeholders, I developed an **AI Assistant** (`_Chatbot OralB AI Assistant.json`). 
 * **Capability:** Enables natural language querying of the 2026 media plan.
 
-![image alt] (https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/b7e09fc3af3fce661a6b00b0cf4c52644c909c8f/Screenshot%202026-03-14%20190623.png)
+![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/b7e09fc3af3fce661a6b00b0cf4c52644c909c8f/Screenshot%202026-03-14%20190623.png)
 ## 📈 Strategic Impact
 * **Total Visibility Score:** 1,143.33 units.
 * **Result:** Achieved an optimized balance between Reach and Efficiency.
