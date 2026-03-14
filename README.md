@@ -9,7 +9,7 @@ This project focuses on the strategic optimization of a **€100,000 media budge
 ### 1. Data Engineering & Geo-Analytics (KNIME)
 I architected a data pipeline to merge brand performance datasets with Italian store geographic data. 
 
-
+[https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/0d765aa16a62483b790d006d30b22c85f655471e/KNIME_projectJOE.knwf]
 
 * **Algorithm Selection:** Tested multiple models and selected **Random Forest** for its superior performance in handling non-linear geographic variables.
 
