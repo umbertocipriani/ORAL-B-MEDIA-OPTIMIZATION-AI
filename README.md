@@ -22,8 +22,11 @@ Using **Linear Programming**, I built a model to distribute **1,143 total GRPs**
 ### 3. Business Intelligence & Market Trends (Power BI)
 I used Power BI to transform raw retail data into a strategic dashboard. 
 This allowed for:
+
 Category Analysis: 
+
 Comparing Value Share vs. Unit Share for Manual and Power segments.
+
 Retailer Tracking: 
 Monitoring sales growth across major distribution channels like Amazon and Esselunga to identify the highest-performing outlets.
 
