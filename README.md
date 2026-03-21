@@ -19,9 +19,12 @@ Using **Linear Programming**, I built a model to distribute **1,143 total GRPs**
 
 * **Constraints:** Monthly saturation cap (≤ 300 GRPs) and total budget (≤ €100,000).
 
-### 3. Efficiency & Seasonality Analysis
-The model identified "Efficiency Windows"—months with a Cost Index below 1.0 (Feb/Oct)—and balanced them against high-visibility months (July/Sept).
+### 3. 3. Business Intelligence & Market Trends (Power BI)
+I used Power BI to transform raw retail data into a strategic dashboard. This allowed for:
 
+Category Analysis: Comparing Value Share vs. Unit Share for Manual and Power segments.
+
+Retailer Tracking: Monitoring sales growth across major distribution channels like Amazon and Esselunga to identify the highest-performing outlets.
 ![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/dbd50f9716807e71e82df57b452b4960b8ddba4a/Screenshot%202026-03-15%20191802.png)
 ![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/04963392134568f94658f06111a3124e9a997ba7/Screenshot%202026-03-15%20191904.png)
 
