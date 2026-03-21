@@ -23,6 +23,7 @@ Using **Linear Programming**, I built a model to distribute **1,143 total GRPs**
 The model identified "Efficiency Windows"—months with a Cost Index below 1.0 (Feb/Oct)—and balanced them against high-visibility months (July/Sept).
 
 ![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/dbd50f9716807e71e82df57b452b4960b8ddba4a/Screenshot%202026-03-15%20191802.png)
+![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/04963392134568f94658f06111a3124e9a997ba7/Screenshot%202026-03-15%20191904.png)
 
 ### 4. Generative AI Interface (Langflow)
 To make findings accessible to stakeholders, I developed an **AI Assistant** (`_Chatbot OralB AI Assistant.json`). 
@@ -31,7 +32,7 @@ To make findings accessible to stakeholders, I developed an **AI Assistant** (`_
 ![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/b7e09fc3af3fce661a6b00b0cf4c52644c909c8f/Screenshot%202026-03-14%20190623.png)
 
 ![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/a97013ca1640b8a85cff151ebe67a8af4eec69bf/Screenshot%202026-03-14%20190544.png)
-![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/04963392134568f94658f06111a3124e9a997ba7/Screenshot%202026-03-15%20191904.png)
+
 ## 📈 Strategic Impact
 * **Total Visibility Score:** 1,143.33 units.
 * **Result:** Achieved an optimized balance between Reach and Efficiency.
