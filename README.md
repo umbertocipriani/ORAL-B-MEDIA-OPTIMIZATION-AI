@@ -22,7 +22,7 @@ Using **Linear Programming**, I built a model to distribute **1,143 total GRPs**
 ### 3. Efficiency & Seasonality Analysis
 The model identified "Efficiency Windows"—months with a Cost Index below 1.0 (Feb/Oct)—and balanced them against high-visibility months (July/Sept).
 
-
+![image alt](https://github.com/umbertocipriani/ORAL-B-MEDIA-OPTIMIZATION-AI/blob/dbd50f9716807e71e82df57b452b4960b8ddba4a/Screenshot%202026-03-15%20191802.png)
 
 ### 4. Generative AI Interface (Langflow)
 To make findings accessible to stakeholders, I developed an **AI Assistant** (`_Chatbot OralB AI Assistant.json`). 
